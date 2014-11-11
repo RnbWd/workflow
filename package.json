@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/RnbWd/workflow/issues"
   },
-  "homepage": "https://github.com/RnbWd/workflow"
+  "homepage": "https://github.com/RnbWd/workflow",
+  "devDependencies": {
+    "quick-commit": "^0.1.0"
+  }
 }
