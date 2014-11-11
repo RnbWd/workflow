@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/RnbWd/workflow",
   "devDependencies": {
+    "jest-cli": "^0.1.18",
     "quick-commit": "^0.1.0"
   }
 }
