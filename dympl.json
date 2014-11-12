@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "js": ["immutable", "react", "react-router", "flux"],
+    "fonts": ["fa"]
+  },
+  "development": "./development",
+  "production": "./production"
+}
